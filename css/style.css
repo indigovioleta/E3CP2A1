@@ -133,6 +133,11 @@ hr {
 	display: inline-flex;
 }
 
+.footer-wrap {
+	margin-top: 0;
+	padding-top: 0;
+}
+
 .footer-container {
 	text-align: right;
 	background: #FFF;
